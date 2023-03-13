@@ -1,1 +1,64 @@
+<h2>AI빅데이터학부 23학번 류예린</h2>
+<ul>
+    <li>나의 취미 활동 소개 목록</li>
+    <ol>
+        <li>넷플릭스 보기</li>
+        <li>드라마 보기</li>
+        <li>영화 보기</li>
+        <li>예능 보기</li>
+    </ol>
 
+<h3>시간표</h3>
+<table border="1">
+<thead>
+    <tr>
+        <th>교<br>시</th> <th>&nbsp;&nbsp;월&nbsp;&nbsp;</th> <th>화</th> <th>수</th> <th>&nbsp;&nbsp;&nbsp;목&nbsp;&nbsp;&nbsp;</th> <th>금</th>
+    </tr>   
+</thead>
+<tbody>
+    <tr>
+        <td>1</td> <td></td> <td></td> <td rowspan="3">자료구조와알<br>고리즘</td> <td></td> <td rowspan="3">모바일프<br>로그래밍</td>
+    </tr>
+    <tr>
+        <td>2</td> <td></td> <td rowspan="2">컴퓨터응용</td> <td>&nbsp;&nbsp;&nbsp;</td> 
+    </tr>
+    <tr>
+        <td>3</td> <td></td> <td></td> 
+    </tr>
+    <tr>
+        <td>4</td> <td colspan="5">점심시간</td>
+    </tr>
+    <tr>
+        <td>5</td> <td rowspan="2">멀티미디&nbsp;&nbsp;<br>어 개론</td> <td rowspan="3">모바일프로<br>그래밍</td> <td></td> <td></td> <td rowspan="2">컴퓨터응<br>용</td>
+    </tr>
+    <tr>
+        <td>6</td> <td></td> <td></td> 
+    </tr>
+    <tr>
+        <td>7</td> <td></td> <td></td> <td></td> <td></td>
+    </tr>
+    <tr>
+        <td>8</td> <td></td> <td></td> <td></td> <td></td> <td></td>
+    </tr>
+</tbody>
+
+    
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>나의 취미</title>
+    </head>
+    <body>
+        <h2>나의 취미는</h2>
+        <p>영화보기</p>
+        <p>넷플릭스 보기</p>
+        <br>드라마 보기</p>
+    </body>
+</html>
+
+
+<h2>AI빅데이터학부 23학번 류예린</h2>
+<p><strong>저의 취미</strong></p>
+<p><small>넷플릭스 보는 것 입니다</small></p>
+<p><small>넷플릭스로 드라마 영화 보는 것을 좋아합니다</small></p>
+<p><small>제가 좋아하는 영화 장르는 액션입니다</small></p>
