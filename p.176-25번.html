@@ -1,0 +1,46 @@
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style>
+        .divgroup {
+            display: flex; 
+            flex-wrap: wrap; 
+            margin-bottom: 3px; 
+            background-color: white;
+        }
+        .divgroup > div {
+            width: 100%; 
+            height: 100px; 
+            margin-bottom: 3px; 
+            background-color: white; 
+            border: 1px dotted;
+        }
+        @media all and (max-width: 600px) {
+            .divgroup > div {
+                width: 80%;
+            }
+        }
+        @media all and (min-width: 600px) and (max-width:1000px) {
+            .divgroup > div {
+                width: 40% ;
+                background-color: blue;
+            }
+        }
+        @media all and (min-width:1000px) {
+            .divgroup > div {
+                width:30%; 
+                background-color: yellow;
+            }
+        }
+    </style>
+    </head>
+<body>
+
+    
+        <div class="divgroup">
+            <div>1번 영역</div>
+            <div>2번 영역</div>
+            <div>3번 영역</div>
+            <div>4번 영역</div>
+            <div>5번 영역</div>
+    </div> </body>
